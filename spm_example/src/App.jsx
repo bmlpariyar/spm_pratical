@@ -23,10 +23,12 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
+          <article>This is a article tag</article>
         </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
+        <span>This is a change in the line in app file</span>
       </p>
     </>
   )
