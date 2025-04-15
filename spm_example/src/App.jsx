@@ -22,7 +22,8 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code>  and save to test HMR
+          <span>This is a simple change in app in ui_changes</span>
         </p>
       </div>
       <p className="read-the-docs">
